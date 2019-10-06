@@ -1,2 +1,2 @@
 # Django-blog-
-A simple  blogging website
+A simple blogging website for developers
